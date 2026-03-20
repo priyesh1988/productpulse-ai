@@ -265,17 +265,6 @@ You can plug in Jira, Linear, HubSpot, Zendesk, Segment, or Snowflake later.
 - Model timeout → API surface returns safe fallback message
 - Over-prioritization of noisy feedback → scoring kept transparent and auditable
 
-## Next extensions you can build
-
-- SSO and RBAC
-- Jira/Linear sync
-- Segment/Amplitude connectors
-- Product experiment tracking
-- evaluation harness for prompt quality
-- multi-tenant SaaS support
-- billing and usage metering
-- human approval queue for roadmap actions
-
 ## License
 
 All Rights Reserved.
