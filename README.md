@@ -4,7 +4,7 @@
 
 ProductPulse AI is a product-focused, production-ready starter repository for teams that want to turn customer signals, telemetry, tickets, and product usage into **prioritized product decisions** using **LLMs, vector search, and workflow automation**.
 
-It is designed as a modern GitHub repo you can extend into a real SaaS product.
+It is designed as a modern MVP product you can extend into a real SaaS product.
 
 ## What it does
 
